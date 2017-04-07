@@ -1,3 +1,4 @@
 
 README for WSU software carpentry workshop.
-Whatever she said.
+Whatever she said...
+This doesn't seem very useful.
