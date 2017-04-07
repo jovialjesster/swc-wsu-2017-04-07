@@ -1,5 +1,5 @@
 
 README for WSU software carpentry workshop.
 Whatever she said...
-This doesn't seem very useful.
+Who is a good boy?
 Django is a good boy.
